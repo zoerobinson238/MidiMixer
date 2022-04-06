@@ -1,9 +1,5 @@
 # MidiMixer
 
-// Event Horizon Starter
-// Zane Cochran
-// 27 March 2022
-
 boolean isBroadcast = false;       // Toggles Visualization On/Off
 String ipAddress = "10.40.4.115";  // Event Horizon IP Address
 
